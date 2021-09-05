@@ -1,0 +1,16 @@
+/home/gabi/Desktop/Desafios C#/qtddNumPos/bin/Debug/net5.0/qtddNumPos
+/home/gabi/Desktop/Desafios C#/qtddNumPos/bin/Debug/net5.0/qtddNumPos.deps.json
+/home/gabi/Desktop/Desafios C#/qtddNumPos/bin/Debug/net5.0/qtddNumPos.runtimeconfig.json
+/home/gabi/Desktop/Desafios C#/qtddNumPos/bin/Debug/net5.0/qtddNumPos.runtimeconfig.dev.json
+/home/gabi/Desktop/Desafios C#/qtddNumPos/bin/Debug/net5.0/qtddNumPos.dll
+/home/gabi/Desktop/Desafios C#/qtddNumPos/bin/Debug/net5.0/ref/qtddNumPos.dll
+/home/gabi/Desktop/Desafios C#/qtddNumPos/bin/Debug/net5.0/qtddNumPos.pdb
+/home/gabi/Desktop/Desafios C#/qtddNumPos/obj/Debug/net5.0/qtddNumPos.csprojAssemblyReference.cache
+/home/gabi/Desktop/Desafios C#/qtddNumPos/obj/Debug/net5.0/qtddNumPos.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabi/Desktop/Desafios C#/qtddNumPos/obj/Debug/net5.0/qtddNumPos.AssemblyInfoInputs.cache
+/home/gabi/Desktop/Desafios C#/qtddNumPos/obj/Debug/net5.0/qtddNumPos.AssemblyInfo.cs
+/home/gabi/Desktop/Desafios C#/qtddNumPos/obj/Debug/net5.0/qtddNumPos.csproj.CoreCompileInputs.cache
+/home/gabi/Desktop/Desafios C#/qtddNumPos/obj/Debug/net5.0/qtddNumPos.dll
+/home/gabi/Desktop/Desafios C#/qtddNumPos/obj/Debug/net5.0/ref/qtddNumPos.dll
+/home/gabi/Desktop/Desafios C#/qtddNumPos/obj/Debug/net5.0/qtddNumPos.pdb
+/home/gabi/Desktop/Desafios C#/qtddNumPos/obj/Debug/net5.0/qtddNumPos.genruntimeconfig.cache
